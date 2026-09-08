@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+httpx
+pytest
+pytest-asyncio
+python-multipart
+fpdf2
+pyjwt
